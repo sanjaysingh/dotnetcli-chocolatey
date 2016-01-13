@@ -18,7 +18,7 @@ function CheckDotNetCliInstalled {
 if (CheckDotNetCliInstalled) {
     Write-Host "Microsoft .Net CLI is already installed on your machine."
 }
-elseif (Get-ProcessorBits -eq 32){
+elseif (Get-ProcessorBits(32)){
     throw "32 bit Microsoft .Net CLI is not yet available."
 }
 else {
