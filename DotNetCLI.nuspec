@@ -6,12 +6,12 @@
     <title>.Net CLI</title>
     <authors>Microsoft</authors>
     <owners>Sanjay Singh</owners>
-    <packageSourceUrl></packageSourceUrl>
+    <packageSourceUrl>https://github.com/sanjaysingh/dotnetcli-chocolatey.git</packageSourceUrl>
     <licenseUrl>http://msdn.microsoft.com/en-US/cc300389.aspx</licenseUrl>
     <projectUrl>http://dotnet.github.io/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>.NET Core is a set of runtime, library and compiler components. Microsoft uses these components in various configurations for device and cloud workloads. You can create .NET Core apps that run on multiple OSes and CPUs. .NET Core runs on Windows. Ports are in progress for Linux, OS X and FreeBSD, as is integration with the LLVM compiler.</description>
-    <summary>The Microsoft .NET Core CLI. Currently this package only supports 64 bit installation.</summary>
-    <tags>Microsoft .net core CLI admin</tags>
+    <description>.NET Core is a set of runtime, library and compiler components. Microsoft uses these components in various configurations for device and cloud workloads. You can create .NET Core apps that run on multiple OSes and CPUs. .NET Core runs on Windows. Ports are in progress for Linux, OS X and FreeBSD, as is integration with the LLVM compiler. Currently this package only supports 64 bit installation.</description>
+    <summary>The Microsoft .NET Core CLI.</summary>
+    <tags>Microsoft .net CLI admin</tags>
   </metadata>
 </package>
