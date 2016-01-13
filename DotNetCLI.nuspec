@@ -6,7 +6,7 @@
     <title>.Net CLI</title>
     <authors>Microsoft</authors>
     <owners>Sanjay Singh</owners>
-    <iconUrl>https://github.com/sanjaysingh/dotnetcli-chocolatey/blob/master/dotnet.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/sanjaysingh/dotnetcli-chocolatey/master/dotnet.png</iconUrl>
     <packageSourceUrl>https://github.com/sanjaysingh/dotnetcli-chocolatey.git</packageSourceUrl>
     <licenseUrl>http://msdn.microsoft.com/en-US/cc300389.aspx</licenseUrl>
     <projectUrl>http://dotnet.github.io/</projectUrl>
