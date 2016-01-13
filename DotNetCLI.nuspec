@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>dotnetcli</id>
+    <version>1.0.0</version>
+    <title>.Net CLI</title>
+    <authors>Microsoft</authors>
+    <owners>Sanjay Singh</owners>
+    <packageSourceUrl></packageSourceUrl>
+    <licenseUrl>http://msdn.microsoft.com/en-US/cc300389.aspx</licenseUrl>
+    <projectUrl>http://dotnet.github.io/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET Core is a set of runtime, library and compiler components. Microsoft uses these components in various configurations for device and cloud workloads. You can create .NET Core apps that run on multiple OSes and CPUs. .NET Core runs on Windows. Ports are in progress for Linux, OS X and FreeBSD, as is integration with the LLVM compiler.</description>
+    <summary>The Microsoft .NET Core CLI. Currently this package only supports 64 bit installation.</summary>
+    <tags>Microsoft .net core CLI admin</tags>
+  </metadata>
+</package>
